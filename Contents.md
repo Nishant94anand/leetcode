@@ -13,3 +13,4 @@
 |----------|----------|
 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum/problem) | [Simple Array Sum Solution](https://github.com/Nishant94anand/leetcode/blob/main/HackerrankQuestions/src/hackerrankQuestionsPackage/SimpleArraySum.java) |
 | [Migratory Bird](https://www.hackerrank.com/challenges/migratory-birds/problem) | [Migratory Bird Solution](https://github.com/Nishant94anand/leetcode/blob/main/HackerrankQuestions/src/hackerrankQuestionsPackage/MigratoryBird.java) |
+| [Compare Triplets](https://www.hackerrank.com/challenges/compare-the-triplets/problem) | [Compare Triplets Solution](https://github.com/Nishant94anand/leetcode/blob/main/HackerrankQuestions/src/hackerrankQuestionsPackage/CompareTriplets.jav)
