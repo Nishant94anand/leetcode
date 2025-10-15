@@ -32,15 +32,6 @@ public class InsertAtIndexOfSinglyLinkedList {
         
         int currIndex = 0;
         
-        
-//        for ( ; currIndex < position-1; ++currIndex) 
-//        {
-//        	if (currNode.next == null) {
-//        		break;
-//        	}
-//        	
-//        }
-        
         while (currNode.next != null && currIndex < position - 1) {
         	currNode = currNode.next;
         	currIndex++;
