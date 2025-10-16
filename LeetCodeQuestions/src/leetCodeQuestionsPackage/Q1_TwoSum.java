@@ -4,7 +4,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Solution driver for LeetCode Problem 1 - {@code Two Sum}.
+ * LeetCode Q1 - Two Sum
+ * ----------------------------------------
  *
  * <p><b>Problem (brief):</b> Given an integer array {@code nums} and an integer {@code target},
  * return indices of the two numbers such that they add up to {@code target}.
