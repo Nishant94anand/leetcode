@@ -6,6 +6,7 @@
 |------------|---------------|-------|--------------|---------------|
 | 1          | [Two Sum](https://leetcode.com/problems/two-sum/description/) | Easy | 56.4% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q1_TwoSum.java) |
 | 2          | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/) | Medium | 47.1% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q2_AddTwoNumbers.java) |
+| 206        | [Reverse Singly Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy | 79.8% | [Solution](Q206_ReverseSinglyLinkedList) |
 | 1172       | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/) | Hard | 33.2% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q1172_DinnerPlateStacks.java) |
 | 2807       | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description) | Medium | 91.5% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q2807_GCDInSinglyLinkedList.java) |
 
