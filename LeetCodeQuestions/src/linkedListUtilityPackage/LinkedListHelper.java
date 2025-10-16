@@ -35,7 +35,6 @@ public class LinkedListHelper {
 		System.out.println("==> Enter Linked List (e.g., 12 8 7): ");
 		SinglyLinkedListNode<Integer> linkedList = null;
 		String line = sc.nextLine();
-		sc.close();
 
 		if (line.length() > 0) {
 			String[] ll1String = line.split(" ");
