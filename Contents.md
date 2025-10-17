@@ -1,6 +1,6 @@
 # Contents
 
-## Leetcode
+## Leetcode - 7
 
 | Question # | LeetCode Link | Level | Acceptance % | Solution Link | 
 |------------|---------------|-------|--------------|---------------|
@@ -12,7 +12,7 @@
 | 1172       | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/) | Hard | 33.2% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q1172_DinnerPlateStacks.java) |
 | 2807       | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description) | Medium | 91.5% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q2807_GCDInSinglyLinkedList.java) |
 
-## Hackerrank
+## Hackerrank - 11
 
 | Question | Solution |
 |----------|----------|
@@ -25,3 +25,6 @@
 | [Insert Node at the head](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list/problem) | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/HackerrankQuestions/src/hackerrankQuestionsPackage/InsertAtHeadOfSinglyLinkedList.java) |
 | [Insert Node at Index](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list/problem) | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/HackerrankQuestions/src/hackerrankQuestionsPackage/InsertAtIndexOfSinglyLinkedList.java) |
 | [Delete a node](https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem) | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/HackerrankQuestions/src/hackerrankQuestionsPackage/DeleteANode.java) |
+| [Print in Reverse](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem) | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/HackerrankQuestions/src/hackerrankQuestionsPackage/PrintInReverse.java) |
+| [Reverse Linked List](https://www.hackerrank.com/challenges/reverse-a-linked-list/problem) | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/HackerrankQuestions/src/hackerrankQuestionsPackage/ReverseLinkedList.java) |
+
