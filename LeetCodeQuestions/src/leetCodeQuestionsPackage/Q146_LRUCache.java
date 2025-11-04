@@ -241,21 +241,21 @@ class LRUCache {
 		
 		return sb.toString();
 	}
-}
-
-class Node {
-	public int key;
-	public int value;
-	public Node prev;
-	public Node next;
 	
-	public Node(int key, int value) {
-		this.key = key;
-		this.value = value;
-	}
+	class Node {
+		public int key;
+		public int value;
+		public Node prev;
+		public Node next;
 
-	@Override
-	public String toString() {
-		return  " (" + key + " : " + value + ") <=>" + next;
-	}	
+		public Node(int key, int value) {
+			this.key = key;
+			this.value = value;
+		}
+
+		@Override
+		public String toString() {
+			return  " (" + key + " : " + value + ") <=>" + next;
+		}
+	}
 }

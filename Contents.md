@@ -1,6 +1,6 @@
 # Contents
 
-## Leetcode - 14
+## Leetcode - 15
 
 | Question # | LeetCode Link | Level | Acceptance % | Solution Link | 
 |------------|---------------|-------|--------------|---------------|
@@ -18,6 +18,7 @@
 | 707        | [Design Linked List - Single Linked List]() | Medium | 29.5% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q707_DesignSinglyLinkedList.java) |
 | 1172       | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/) | Hard | 33.2% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q1172_DinnerPlateStacks.java) |
 | 2807       | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description) | Medium | 91.5% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q2807_GCDInSinglyLinkedList.java) |
+| 3701       | [Alternating Sum](https://leetcode.com/problems/compute-alternating-sum/) | Easy | 88.9% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q3701_AlternatingSum.java) |
 
 ## Hackerrank - 11
 

@@ -148,19 +148,18 @@ public class Q430_FlattenDoublyLinkedList {
             curr = curr.next;
         }
     }
-
-}
-
-/**
- * Node structure used in LeetCode Q430
- */
-class Node {
-    public int val;
-    public Node prev;
-    public Node next;
-    public Node child;
-
-    public Node(int val) {
-        this.val = val;
+    
+    /**
+     * Node structure used in LeetCode Q430
+     */
+    static class Node {
+    	public int val;
+    	public Node prev;
+    	public Node next;
+    	public Node child;
+    	
+    	public Node(int val) {
+    		this.val = val;
+    	}
     }
 }
