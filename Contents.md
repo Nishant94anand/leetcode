@@ -1,6 +1,6 @@
 # Contents
 
-## Leetcode - 15
+## Leetcode - 16
 
 | Question # | LeetCode Link | Level | Acceptance % | Solution Link | 
 |------------|---------------|-------|--------------|---------------|
@@ -10,11 +10,13 @@
 | 4 (to take another approach) | (Median of 2 sorted arrays)() | Hard | 45% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q4_MedianOfTwoSortedArrays.java) |
 | 6          | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) - Check| Medium | 52.6% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q6_ZigZagConversion.java) |
 | 21         | [Merge Two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy | 67.4% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q21_MergeTwoSortedLists.java) |
+| 31         | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | 44.1% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q31_NextPermutation.java) |
 | 49         | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Medium | 71.7% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q49_GroupAnagrams.java) |
 | 138        | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/) | Medium | 61.6% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q138_CopyLinkedListWithRandomPointer.java) |
 | 143        | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | Medium | 63.6% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q143_ReorderList.java) |
 | 146        | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | Medium | 46.2% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q146_LRUCache.java) |
 | 206        | [Reverse Singly Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy | 79.8% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q206_ReverseSinglyLinkedList.java) |
+| 430 (revisit once after learning DFS)        | [Flatten Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) | Medium | 62.0% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q430_FlattenDoublyLinkedList.java) |
 | 707        | [Design Linked List - Single Linked List]() | Medium | 29.5% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q707_DesignSinglyLinkedList.java) |
 | 1172       | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/) | Hard | 33.2% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q1172_DinnerPlateStacks.java) |
 | 2807       | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description) | Medium | 91.5% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q2807_GCDInSinglyLinkedList.java) |
