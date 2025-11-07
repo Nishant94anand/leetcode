@@ -1,6 +1,6 @@
 # Contents
 
-## Leetcode - 16
+## Leetcode - 18
 
 | Question # | LeetCode Link | Level | Acceptance % | Solution Link | 
 |------------|---------------|-------|--------------|---------------|
@@ -17,6 +17,7 @@
 | 146        | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | Medium | 46.2% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q146_LRUCache.java) |
 | 206        | [Reverse Singly Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy | 79.8% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q206_ReverseSinglyLinkedList.java) |
 | 430 (revisit once after learning DFS)        | [Flatten Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) | Medium | 62.0% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q430_FlattenDoublyLinkedList.java) |
+| 460        | [LFU Cache]() | Hard | 47.8% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q460_LFUCache.java) |
 | 707        | [Design Linked List - Single Linked List]() | Medium | 29.5% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q707_DesignSinglyLinkedList.java) |
 | 1172       | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/description/) | Hard | 33.2% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q1172_DinnerPlateStacks.java) |
 | 2807       | [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description) | Medium | 91.5% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q2807_GCDInSinglyLinkedList.java) |
