@@ -11,7 +11,7 @@
 
 | # | Problem | Difficulty | Status |
 |---|----------|-------------|--------|
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ⏳ |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | ✅ |
 | 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | ⏳ |
 | 3 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | ⏳ |
 | 4 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | ⏳ |
@@ -34,8 +34,8 @@
 | # | Problem | Difficulty | Status |
 |---|----------|-------------|--------|
 | 16 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | ⏳ |
-| 17 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | ⏳ |
-| 18 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | ⏳ |
+| 17 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | ✅ |
+| 18 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | ✅ |
 | 19 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | ⏳ |
 | 20 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | ⏳ |
 | 21 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | ⏳ |
@@ -67,16 +67,16 @@
 
 | # | Problem | Difficulty | Status |
 |---|----------|-------------|--------|
-| 36 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | ⏳ |
-| 37 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | ⏳ |
-| 38 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | ⏳ |
+| 36 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | ✅ |
+| 37 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | ✅ |
+| 38 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | ✅ |
 | 39 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | ⏳ |
-| 40 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | ⏳ |
+| 40 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | ✅ |
 | 41 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | ⏳ |
 | 42 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | ⏳ |
 | 43 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | ⏳ |
-| 44 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | ⏳ |
-| 45 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | ⏳ |
+| 44 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | ✅ |
+| 45 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | Medium | ✅ |
 
 ---
 
@@ -173,7 +173,7 @@
 | 97 | [Reorganize String](https://leetcode.com/problems/reorganize-string/) | Medium | ⏳ |
 | 98 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | Medium | ⏳ |
 | 99 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | Medium | ⏳ |
-| 100 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | Hard | ⏳ |
+| 100 | [LFU Cache](https://leetcode.com/problems/lfu-cache/) | Hard | ✅ |
 
 ---
 
