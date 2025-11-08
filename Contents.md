@@ -1,6 +1,6 @@
 # Contents
 
-## Leetcode - 18
+## Leetcode - 19
 
 | Question # | LeetCode Link | Level | Acceptance % | Solution Link | 
 |------------|---------------|-------|--------------|---------------|
@@ -16,6 +16,7 @@
 | 143        | [Reorder List](https://leetcode.com/problems/reorder-list/description/) | Medium | 63.6% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q143_ReorderList.java) |
 | 146        | [LRU Cache](https://leetcode.com/problems/lru-cache/description/) | Medium | 46.2% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q146_LRUCache.java) |
 | 206        | [Reverse Singly Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | Easy | 79.8% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q206_ReverseSinglyLinkedList.java) |
+| 234        | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | 56.8% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q234_PalindromeLinkedList.java) |
 | 430 (revisit once after learning DFS)        | [Flatten Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list) | Medium | 62.0% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q430_FlattenDoublyLinkedList.java) |
 | 460        | [LFU Cache]() | Hard | 47.8% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q460_LFUCache.java) |
 | 707        | [Design Linked List - Single Linked List]() | Medium | 29.5% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q707_DesignSinglyLinkedList.java) |

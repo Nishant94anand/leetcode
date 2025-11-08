@@ -72,7 +72,7 @@
 | 38 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | ✅ |
 | 39 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | ⏳ |
 | 40 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | ✅ |
-| 41 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | ⏳ |
+| 41 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | ✅ |
 | 42 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | ⏳ |
 | 43 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | Easy | ⏳ |
 | 44 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | Medium | ✅ |
