@@ -1,6 +1,6 @@
 # Contents
 
-## Leetcode - 19
+## Leetcode - 20
 
 | Question # | LeetCode Link | Level | Acceptance % | Solution Link | 
 |------------|---------------|-------|--------------|---------------|
@@ -9,6 +9,7 @@
 | 3          | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description) | Medium | 37.8% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q3_LongestNonRepeatingSubstring.java) |
 | 4 (to take another approach) | (Median of 2 sorted arrays)() | Hard | 45% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q4_MedianOfTwoSortedArrays.java) |
 | 6          | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/description/) - Check| Medium | 52.6% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q6_ZigZagConversion.java) |
+| 19         | [Remove Nth Node from Linked List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | 50.2% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q19_RemoveNthNodeFromLinkedList.java) |
 | 21         | [Merge Two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/description/) | Easy | 67.4% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q21_MergeTwoSortedLists.java) |
 | 31         | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | 44.1% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q31_NextPermutation.java) |
 | 49         | [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/) | Medium | 71.7% | [Solution](https://github.com/Nishant94anand/leetcode/blob/main/LeetCodeQuestions/src/leetCodeQuestionsPackage/Q49_GroupAnagrams.java) |

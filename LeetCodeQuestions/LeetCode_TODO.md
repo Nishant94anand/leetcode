@@ -70,7 +70,7 @@
 | 36 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | ✅ |
 | 37 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | ✅ |
 | 38 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Medium | ✅ |
-| 39 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | ⏳ |
+| 39 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | ✅ |
 | 40 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | Medium | ✅ |
 | 41 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | Easy | ✅ |
 | 42 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | ⏳ |
