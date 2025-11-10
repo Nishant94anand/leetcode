@@ -33,7 +33,7 @@
 
 | # | Problem | Difficulty | Status |
 |---|----------|-------------|--------|
-| 16 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | ⏳ |
+| 16 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | ✅ |
 | 17 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | ✅ |
 | 18 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | ✅ |
 | 19 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | ⏳ |
