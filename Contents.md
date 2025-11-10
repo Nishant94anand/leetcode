@@ -1,6 +1,6 @@
 # Contents
 
-## Leetcode - 20
+## Leetcode - 21
 
 | Question # | LeetCode Link | Level | Acceptance % | Solution Link | 
 |------------|---------------|-------|--------------|---------------|
